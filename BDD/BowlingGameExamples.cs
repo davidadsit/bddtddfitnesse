@@ -1,6 +1,6 @@
-﻿using Machine.Specifications;
+using Machine.Specifications;
 
-namespace BowlingKata
+namespace BowlingKata.BDD
 {
     public class With_a_game
     {

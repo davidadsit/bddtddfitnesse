@@ -1,6 +1,6 @@
-﻿using NUnit.Framework;
+using NUnit.Framework;
 
-namespace BowlingKata
+namespace BowlingKata.TDD
 {
     [TestFixture]
     public class BowlingGameTests

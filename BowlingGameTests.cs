@@ -14,7 +14,7 @@ namespace BowlingKata
         }
 
         [Test]
-        public void when_rolling_a_gutter_game()
+        public void The_score_for_a_gutter_game_is_0()
         {
             RollMany(20, 0);
 
@@ -22,7 +22,7 @@ namespace BowlingKata
         }
 
         [Test]
-        public void when_rolling_all_ones_game()
+        public void The_score_for_all_ones_is_20()
         {
             RollMany(20, 1);
 
@@ -30,7 +30,7 @@ namespace BowlingKata
         }
 
         [Test]
-        public void when_rolling_one_spare()
+        public void A_spare_adds_the_value_of_the_next_ball()
         {
             RollSpare();
             _game.Roll(3);
@@ -40,7 +40,7 @@ namespace BowlingKata
         }
 
         [Test]
-        public void when_rolling_one_strike()
+        public void A_strike_adds_the_value_of_the_next_two_balls()
         {
             RollStrike();
             _game.Roll(3);
@@ -51,7 +51,7 @@ namespace BowlingKata
         }
 
         [Test]
-        public void when_rolling_a_perfect_game()
+        public void The_score_for_a_perfect_game_is_300()
         {
             RollMany(12, 10);
             Assert.That(_game.Score() == 300);

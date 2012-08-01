@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20111026</FitNesseVersion>
+  <rootPath>TestScoring</rootPath>
+    <result>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>14</exceptions>
+    </counts>
+    <runTimeInMillis>109</runTimeInMillis>
+    <content><![CDATA[<div class="collapse_rim">
+	<div style="float: right;" class="meta">
+		<a href="javascript:expandAll();">Expand All</a>
+ | 
+		<a href="javascript:collapseAll();">Collapse All</a>
+	</div>
+	<a href="javascript:toggleCollapsable('11');">
+		<img src="/files/images/collapsableClosed.gif" class="left" id="img11"/>
+	</a>
+&nbsp;
+	<span class="meta">Precompiled Libraries</span>
+	<div class="hidden" id="11"><br/></div>
+</div>
+<div class="toc1">
+	<div class="contents">
+		<b>Contents:</b>
+		<ul/>
+	</div>
+</div>
+<br/><div class="collapse_rim">
+	<div style="float: right;" class="meta">
+		<a href="javascript:expandAll();">Expand All</a>
+ | 
+		<a href="javascript:collapseAll();">Collapse All</a>
+	</div>
+	<a href="javascript:toggleCollapsable('12');">
+		<img src="/files/images/collapsableClosed.gif" class="left" id="img12"/>
+	</a>
+&nbsp;
+	<span class="meta">Test Initialization</span>
+	<div class="hidden" id="12"><table border="1" cellspacing="0" _TABLENUMBER=99861177275627504>
+	<tr>
+		<td>import</td>
+	</tr>
+	<tr>
+		<td>BowlingKata<a title="create page" href="FrontPage.SuiteBowlingGame.BowlingKata?edit&nonExistent=true">[?]</a>.Fixtures</td>
+	</tr>
+</table>
+</div>
+</div>
+<br/><br/><table border="1" cellspacing="0" _TABLENUMBER=3979944927769013213>
+	<tr>
+		<td colspan="2">final score <span class="error">Could not find class FinalScore</span></td>
+	</tr>
+	<tr>
+		<td>rolls</td>
+		<td>score?</td>
+	</tr>
+	<tr>
+		<td>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <span class="error">Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</span></td>
+		<td>0 <span class="error">Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</span></td>
+	</tr>
+	<tr>
+		<td>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 <span class="error">Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</span></td>
+		<td>20 <span class="error">Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</span></td>
+	</tr>
+	<tr>
+		<td>10 10 10 10 10 10 10 10 10 10 <span class="error">Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</span></td>
+		<td>300 <span class="error">Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</span></td>
+	</tr>
+</table>
+]]></content>
+    <relativePageName>TestScoring</relativePageName>
+    
+        <tables>
+            <table>
+        <name>import_0</name>
+                <row>
+                    <col><![CDATA[import]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[BowlingKata<a title="create page" href="FrontPage.SuiteBowlingGame.BowlingKata?edit&nonExistent=true">[?]</a>.Fixtures]]></col>
+          
+        </row>
+        
+      </table>
+            <table>
+        <name>decisionTable_1</name>
+                <row>
+                    <col><![CDATA[final score error(Could not find class FinalScore)]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[rolls]]></col>
+                    <col><![CDATA[score?]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 error(Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></col>
+                    <col><![CDATA[0 error(Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 error(Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></col>
+                    <col><![CDATA[20 error(Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[10 10 10 10 10 10 10 10 10 10 error(Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></col>
+                    <col><![CDATA[300 error(Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></col>
+          
+        </row>
+        
+      </table>
+      
+    </tables>
+    
+    
+    <instructions>
+            <instructionResult>
+        <instruction><![CDATA[[import_0_0, import, BowlingKata<a title="create page" href="FrontPage.SuiteBowlingGame.BowlingKata?edit&nonExistent=true">[?]</a>.Fixtures]]]></instruction>
+        <slimResult><![CDATA[OK]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_0, make, decisionTable_1, FinalScore]]]></instruction>
+        <slimResult><![CDATA[!error:Could not find class FinalScore]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_0</instructionId>
+          <col>0</col>
+          <row>0</row>
+          <type>ConstructionExpectation</type>
+                    <actual><![CDATA[!error:Could not find class FinalScore]]></actual>
+                              <expected><![CDATA[final score]]></expected>
+                              <evaluationMessage><![CDATA[final score error(Could not find class FinalScore)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_1, call, decisionTable_1, table, [[rolls, score?], [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0, 0], [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1, 20], [10 10 10 10 10 10 10 10 10 10, 300]]]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS table fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'table' with 1 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_2, call, decisionTable_1, beginTable]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS begintable fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'begintable' with 0 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_3, call, decisionTable_1, reset]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS reset fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'reset' with 0 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_4, call, decisionTable_1, setRolls, 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]]></instruction>
+        <slimResult><![CDATA[!error:Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_4</instructionId>
+          <col>0</col>
+          <row>2</row>
+          <type>VoidReturnExpectation</type>
+                    <actual><![CDATA[!error:Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></actual>
+                              <expected><![CDATA[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></expected>
+                              <evaluationMessage><![CDATA[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 error(Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_5, call, decisionTable_1, execute]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS execute fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'execute' with 0 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_6, call, decisionTable_1, score]]]></instruction>
+        <slimResult><![CDATA[!error:Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_6</instructionId>
+          <col>1</col>
+          <row>2</row>
+          <type>ReturnedValueExpectation</type>
+                    <actual><![CDATA[!error:Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></actual>
+                              <expected><![CDATA[0]]></expected>
+                              <evaluationMessage><![CDATA[0 error(Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_7, call, decisionTable_1, reset]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS reset fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'reset' with 0 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_8, call, decisionTable_1, setRolls, 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]]></instruction>
+        <slimResult><![CDATA[!error:Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_8</instructionId>
+          <col>0</col>
+          <row>3</row>
+          <type>VoidReturnExpectation</type>
+                    <actual><![CDATA[!error:Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></actual>
+                              <expected><![CDATA[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]></expected>
+                              <evaluationMessage><![CDATA[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 error(Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_9, call, decisionTable_1, execute]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS execute fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'execute' with 0 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_10, call, decisionTable_1, score]]]></instruction>
+        <slimResult><![CDATA[!error:Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_10</instructionId>
+          <col>1</col>
+          <row>3</row>
+          <type>ReturnedValueExpectation</type>
+                    <actual><![CDATA[!error:Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></actual>
+                              <expected><![CDATA[20]]></expected>
+                              <evaluationMessage><![CDATA[20 error(Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_11, call, decisionTable_1, reset]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS reset fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'reset' with 0 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_12, call, decisionTable_1, setRolls, 10 10 10 10 10 10 10 10 10 10]]]></instruction>
+        <slimResult><![CDATA[!error:Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_12</instructionId>
+          <col>0</col>
+          <row>4</row>
+          <type>VoidReturnExpectation</type>
+                    <actual><![CDATA[!error:Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></actual>
+                              <expected><![CDATA[10 10 10 10 10 10 10 10 10 10]]></expected>
+                              <evaluationMessage><![CDATA[10 10 10 10 10 10 10 10 10 10 error(Method setrolls not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_13, call, decisionTable_1, execute]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS execute fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'execute' with 0 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_14, call, decisionTable_1, score]]]></instruction>
+        <slimResult><![CDATA[!error:Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_14</instructionId>
+          <col>1</col>
+          <row>4</row>
+          <type>ReturnedValueExpectation</type>
+                    <actual><![CDATA[!error:Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance]]></actual>
+                              <expected><![CDATA[300]]></expected>
+                              <evaluationMessage><![CDATA[300 error(Method score not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_15, call, decisionTable_1, endTable]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS endtable fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance>> fitSharp.Machine.Exception.MemberMissingException: Member 'endtable' with 0 parameter(s) not found for type 'fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+      
+    </instructions>
+    
+  </result>
+  
+    <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>0</totalRunTimeInMillis>
+  
+</testResults>
+

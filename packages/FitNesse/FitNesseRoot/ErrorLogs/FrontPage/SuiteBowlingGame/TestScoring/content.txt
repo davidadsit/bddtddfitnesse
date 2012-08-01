@@ -1,0 +1,6 @@
+!3 !-slim-!
+|'''Date: '''|!-5:22:18 PM (MDT) on Wednesday, August 1, 2012-!|
+|'''Test Page: '''|.FrontPage.SuiteBowlingGame.TestScoring|
+|'''Command: '''|!-C:\development\bddtdd\packages\FitNesse\BowlingGame\Runner.exe -r fitSharp.Slim.Service.Runner,C:\development\bddtdd\packages\FitNesse\BowlingGame\fitsharp.dll C:\development\bddtdd\packages\FitNesse\BowlingGame\BowlingKata.dll  8087-!|
+|'''Exit code: '''|!-0-!|
+|'''Time elapsed: '''|!-1.426 seconds-!|

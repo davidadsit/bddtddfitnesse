@@ -10,7 +10,6 @@ bin/
 obj/
 Debug/
 Release/
-ClientBin/
 /CommonAssemblyInfo.cs
 /artifacts
 /buildArtifacts
@@ -18,9 +17,6 @@ ClientBin/
 /_revision.txt
 /NDependOut
 *.dbmdl
-*My.Post.Deployment.sql
-databases/PS.Data.Reports/PS.Data.Reports/sql/
-databases/PS.Data.Warehouse/sql/
 *.ncrunch*
 *crunchsolution*
 TestResult.xml

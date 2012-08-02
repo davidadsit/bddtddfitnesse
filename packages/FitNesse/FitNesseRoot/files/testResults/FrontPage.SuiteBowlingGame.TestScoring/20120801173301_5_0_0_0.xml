@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20111026</FitNesseVersion>
+  <rootPath>TestScoring</rootPath>
+    <result>
+    <counts>
+      <right>5</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>161</runTimeInMillis>
+    <content><![CDATA[<div class="collapse_rim">
+	<div style="float: right;" class="meta">
+		<a href="javascript:expandAll();">Expand All</a>
+ | 
+		<a href="javascript:collapseAll();">Collapse All</a>
+	</div>
+	<a href="javascript:toggleCollapsable('1');">
+		<img src="/files/images/collapsableClosed.gif" class="left" id="img1"/>
+	</a>
+&nbsp;
+	<span class="meta">Precompiled Libraries</span>
+	<div class="hidden" id="1"><br/></div>
+</div>
+<div class="toc1">
+	<div class="contents">
+		<b>Contents:</b>
+		<ul/>
+	</div>
+</div>
+<br/><div class="collapse_rim">
+	<div style="float: right;" class="meta">
+		<a href="javascript:expandAll();">Expand All</a>
+ | 
+		<a href="javascript:collapseAll();">Collapse All</a>
+	</div>
+	<a href="javascript:toggleCollapsable('2');">
+		<img src="/files/images/collapsableClosed.gif" class="left" id="img2"/>
+	</a>
+&nbsp;
+	<span class="meta">Test Initialization</span>
+	<div class="hidden" id="2"><span class="meta">variable defined: TEST_SYSTEM=slim</span>
+<br/><span class="meta">variable defined: COMMAND_PATTERN=%m -r fitSharp.Slim.Service.Runner,C:\development\bddtdd\packages\FitNesse\BowlingGame\fitsharp.dll %p</span>
+<br/><span class="meta">variable defined: TEST_RUNNER=C:\development\bddtdd\packages\FitNesse\BowlingGame\Runner.exe</span>
+<br/><span class="meta">classpath: C:\development\bddtdd\packages\FitNesse\BowlingGame\BowlingKata.dll</span><br/><br/><table border="1" cellspacing="0" _TABLENUMBER=7883758677931244053>
+	<tr>
+		<td>import</td>
+	</tr>
+	<tr>
+		<td>BowlingKata.Fixtures</td>
+	</tr>
+</table>
+</div>
+</div>
+<br/><br/><table border="1" cellspacing="0" _TABLENUMBER=8538276052152741799>
+	<tr>
+		<td colspan="2"><span class="pass">final score</span></td>
+	</tr>
+	<tr>
+		<td>rolls</td>
+		<td>score?</td>
+	</tr>
+	<tr>
+		<td>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</td>
+		<td><span class="pass">0</span></td>
+	</tr>
+	<tr>
+		<td>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</td>
+		<td><span class="pass">20</span></td>
+	</tr>
+	<tr>
+		<td>5 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</td>
+		<td><span class="pass">16</span></td>
+	</tr>
+	<tr>
+		<td>10 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</td>
+		<td><span class="pass">24</span></td>
+	</tr>
+	<tr>
+		<td>10 10 10 10 10 10 10 10 10 10 10 10</td>
+		<td><span class="pass">300</span></td>
+	</tr>
+</table>
+]]></content>
+    <relativePageName>TestScoring</relativePageName>
+    
+        <tables>
+            <table>
+        <name>import_0</name>
+                <row>
+                    <col><![CDATA[import]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[BowlingKata.Fixtures]]></col>
+          
+        </row>
+        
+      </table>
+            <table>
+        <name>decisionTable_1</name>
+                <row>
+                    <col><![CDATA[pass(final score)]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[rolls]]></col>
+                    <col><![CDATA[score?]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></col>
+                    <col><![CDATA[pass(0)]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]></col>
+                    <col><![CDATA[pass(20)]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[5 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></col>
+                    <col><![CDATA[pass(16)]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[10 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></col>
+                    <col><![CDATA[pass(24)]]></col>
+          
+        </row>
+                <row>
+                    <col><![CDATA[10 10 10 10 10 10 10 10 10 10 10 10]]></col>
+                    <col><![CDATA[pass(300)]]></col>
+          
+        </row>
+        
+      </table>
+      
+    </tables>
+    
+    
+    <instructions>
+            <instructionResult>
+        <instruction><![CDATA[[import_0_0, import, BowlingKata.Fixtures]]]></instruction>
+        <slimResult><![CDATA[OK]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_0, make, decisionTable_1, FinalScore]]]></instruction>
+        <slimResult><![CDATA[OK]]></slimResult>
+                <expectation>
+          <status>right</status>
+          <instructionId>decisionTable_1_0</instructionId>
+          <col>0</col>
+          <row>0</row>
+          <type>ConstructionExpectation</type>
+                    <actual><![CDATA[OK]]></actual>
+                              <expected><![CDATA[final score]]></expected>
+                              <evaluationMessage><![CDATA[pass(final score)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_1, call, decisionTable_1, table, [[rolls, score?], [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0, 0], [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1, 20], [5 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0, 16], [10 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0, 24], [10 10 10 10 10 10 10 10 10 10 10 10, 300]]]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS table BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'table' with 1 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_2, call, decisionTable_1, beginTable]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS begintable BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'begintable' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_3, call, decisionTable_1, reset]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS reset BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'reset' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_4, call, decisionTable_1, setRolls, 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]]></instruction>
+        <slimResult><![CDATA[/__VOID__/]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_4</instructionId>
+          <col>0</col>
+          <row>2</row>
+          <type>VoidReturnExpectation</type>
+                    <actual><![CDATA[/__VOID__/]]></actual>
+                              <expected><![CDATA[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></expected>
+                              <evaluationMessage><![CDATA[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_5, call, decisionTable_1, execute]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS execute BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'execute' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_6, call, decisionTable_1, score]]]></instruction>
+        <slimResult><![CDATA[0]]></slimResult>
+                <expectation>
+          <status>right</status>
+          <instructionId>decisionTable_1_6</instructionId>
+          <col>1</col>
+          <row>2</row>
+          <type>ReturnedValueExpectation</type>
+                    <actual><![CDATA[0]]></actual>
+                              <expected><![CDATA[0]]></expected>
+                              <evaluationMessage><![CDATA[pass(0)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_7, call, decisionTable_1, reset]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS reset BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'reset' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_8, call, decisionTable_1, setRolls, 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]]></instruction>
+        <slimResult><![CDATA[/__VOID__/]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_8</instructionId>
+          <col>0</col>
+          <row>3</row>
+          <type>VoidReturnExpectation</type>
+                    <actual><![CDATA[/__VOID__/]]></actual>
+                              <expected><![CDATA[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]></expected>
+                              <evaluationMessage><![CDATA[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_9, call, decisionTable_1, execute]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS execute BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'execute' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_10, call, decisionTable_1, score]]]></instruction>
+        <slimResult><![CDATA[20]]></slimResult>
+                <expectation>
+          <status>right</status>
+          <instructionId>decisionTable_1_10</instructionId>
+          <col>1</col>
+          <row>3</row>
+          <type>ReturnedValueExpectation</type>
+                    <actual><![CDATA[20]]></actual>
+                              <expected><![CDATA[20]]></expected>
+                              <evaluationMessage><![CDATA[pass(20)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_11, call, decisionTable_1, reset]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS reset BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'reset' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_12, call, decisionTable_1, setRolls, 5 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]]></instruction>
+        <slimResult><![CDATA[/__VOID__/]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_12</instructionId>
+          <col>0</col>
+          <row>4</row>
+          <type>VoidReturnExpectation</type>
+                    <actual><![CDATA[/__VOID__/]]></actual>
+                              <expected><![CDATA[5 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></expected>
+                              <evaluationMessage><![CDATA[5 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_13, call, decisionTable_1, execute]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS execute BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'execute' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_14, call, decisionTable_1, score]]]></instruction>
+        <slimResult><![CDATA[16]]></slimResult>
+                <expectation>
+          <status>right</status>
+          <instructionId>decisionTable_1_14</instructionId>
+          <col>1</col>
+          <row>4</row>
+          <type>ReturnedValueExpectation</type>
+                    <actual><![CDATA[16]]></actual>
+                              <expected><![CDATA[16]]></expected>
+                              <evaluationMessage><![CDATA[pass(16)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_15, call, decisionTable_1, reset]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS reset BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'reset' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_16, call, decisionTable_1, setRolls, 10 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]]></instruction>
+        <slimResult><![CDATA[/__VOID__/]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_16</instructionId>
+          <col>0</col>
+          <row>5</row>
+          <type>VoidReturnExpectation</type>
+                    <actual><![CDATA[/__VOID__/]]></actual>
+                              <expected><![CDATA[10 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></expected>
+                              <evaluationMessage><![CDATA[10 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_17, call, decisionTable_1, execute]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS execute BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'execute' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_18, call, decisionTable_1, score]]]></instruction>
+        <slimResult><![CDATA[24]]></slimResult>
+                <expectation>
+          <status>right</status>
+          <instructionId>decisionTable_1_18</instructionId>
+          <col>1</col>
+          <row>5</row>
+          <type>ReturnedValueExpectation</type>
+                    <actual><![CDATA[24]]></actual>
+                              <expected><![CDATA[24]]></expected>
+                              <evaluationMessage><![CDATA[pass(24)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_19, call, decisionTable_1, reset]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS reset BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'reset' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_20, call, decisionTable_1, setRolls, 10 10 10 10 10 10 10 10 10 10 10 10]]]></instruction>
+        <slimResult><![CDATA[/__VOID__/]]></slimResult>
+                <expectation>
+          <status>ignored</status>
+          <instructionId>decisionTable_1_20</instructionId>
+          <col>0</col>
+          <row>6</row>
+          <type>VoidReturnExpectation</type>
+                    <actual><![CDATA[/__VOID__/]]></actual>
+                              <expected><![CDATA[10 10 10 10 10 10 10 10 10 10 10 10]]></expected>
+                              <evaluationMessage><![CDATA[10 10 10 10 10 10 10 10 10 10 10 10]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_21, call, decisionTable_1, execute]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS execute BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'execute' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_22, call, decisionTable_1, score]]]></instruction>
+        <slimResult><![CDATA[300]]></slimResult>
+                <expectation>
+          <status>right</status>
+          <instructionId>decisionTable_1_22</instructionId>
+          <col>1</col>
+          <row>6</row>
+          <type>ReturnedValueExpectation</type>
+                    <actual><![CDATA[300]]></actual>
+                              <expected><![CDATA[300]]></expected>
+                              <evaluationMessage><![CDATA[pass(300)]]></evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction><![CDATA[[decisionTable_1_23, call, decisionTable_1, endTable]]]></instruction>
+        <slimResult><![CDATA[__EXCEPTION__:message:<<NO_METHOD_IN_CLASS endtable BowlingKata.Fixtures.FinalScore>> fitSharp.Machine.Exception.MemberMissingException: Member 'endtable' with 0 parameter(s) not found for type 'BowlingKata.Fixtures.FinalScore'.
+   at fitSharp.Machine.Model.TypedValue.ThrowExceptionIfNotValid()
+   at fitSharp.Slim.Operators.ExecuteCall.ExecuteOperation(Tree`1 parameters)
+   at fitSharp.Slim.Operators.InvokeInstructionBase.Invoke(TypedValue instance, MemberName memberName, Tree`1 parameters)]]></slimResult>
+        
+      </instructionResult>
+      
+    </instructions>
+    
+  </result>
+  
+    <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>0</totalRunTimeInMillis>
+  
+</testResults>
+

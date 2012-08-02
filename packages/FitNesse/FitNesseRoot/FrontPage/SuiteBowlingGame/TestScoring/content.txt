@@ -9,10 +9,13 @@
 |BowlingKata.Fixtures|
 ******!
 
-|final score                                   |
+In bowling, when you get a strike (all 10 pins fall) you get the pins from the next 2 balls as well.
+
+!|final score                                   |
 |rolls                                  |score?|
 |0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0|0     |
 |1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1|20    |
+|3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3|60    |
 |5 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0|16    |
 |10 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 |24    |
 |10 10 10 10 10 10 10 10 10 10 10 10    |300   |

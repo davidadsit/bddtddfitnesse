@@ -4,7 +4,7 @@ During this meeting, we discussed:
 - NUnit is a great TDD tool.
 - MSpec is a great TDD tool.
 - MSpec != BDD.
- -BDD is not about developer tests, but rather about the whole team (including business users) thinking about how to know when a feature is complete and the developers should stop writing new code.
+- BDD is not about developer tests, but rather about the whole team (including business users) thinking about how to know when a feature is complete and the developers should stop writing new code.
 
 We discussed how FitNesse is a true BDD tool because it separates the business concepts from the programming concepts.
 2 major advantages to FitNesse for a team of all developers include:

@@ -12,7 +12,7 @@ We discussed how FitNesse is a true BDD tool because it separates the business c
 - Writing fixtures will help you define your API and help you find the rough spots in the API
 
 To run FitNesse:
-- cd into the packages/FitNesse directory
-- java -jar fitnesse.jar -p 8000
-- browse to localhost:8000
+- cd into: packages/FitNesse
+- execute: java -jar fitnesse.jar -p 8000
+- browse to: localhost:8000
 

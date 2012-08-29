@@ -15,4 +15,7 @@ To run FitNesse:
 - cd into: packages/FitNesse
 - execute: java -jar fitnesse.jar -p 8000
 - browse to: localhost:8000
+- click the SuiteBowlingGame link
+- click the Suite button on the left nav
+- watch the beautiful BDD tests run!
 

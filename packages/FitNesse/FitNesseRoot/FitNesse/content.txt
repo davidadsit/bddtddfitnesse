@@ -1,29 +1,3 @@
-|!c !2 Contents|
-|!contents -g|
-
-!path fitnesse.jar
+!contents -g
 !path classes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+!path lib/*.jar

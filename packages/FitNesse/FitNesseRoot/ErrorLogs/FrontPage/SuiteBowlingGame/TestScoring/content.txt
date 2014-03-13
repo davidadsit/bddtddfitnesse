@@ -1,6 +1,8 @@
-!3 !-slim-!
-|'''Date: '''|!-6:33:47 PM (MDT) on Wednesday, August 1, 2012-!|
+
+!3 !-slim:D:\Development\bddtddfitnesse\packages\FitNesse\BowlingGame\Runner.exe-!
+|'''Date: '''| 8:32:44 PM (MDT) on Wednesday, March 12, 2014 |
 |'''Test Page: '''|.FrontPage.SuiteBowlingGame.TestScoring|
-|'''Command: '''|!-C:\development\bddtdd\packages\FitNesse\BowlingGame\Runner.exe -r fitSharp.Slim.Service.Runner,C:\development\bddtdd\packages\FitNesse\BowlingGame\fitsharp.dll C:\development\bddtdd\packages\FitNesse\BowlingGame\BowlingKata.dll  8089-!|
-|'''Exit code: '''|!-0-!|
-|'''Time elapsed: '''|!-1.428 seconds-!|
+|'''Command: '''| !-D:\Development\bddtddfitnesse\packages\FitNesse\BowlingGame\Runner.exe -r fitSharp.Slim.Service.Runner,D:\Development\bddtddfitnesse\packages\FitNesse\BowlingGame\fitsharp.dll D:\Development\bddtddfitnesse\packages\FitNesse\BowlingGame\BowlingKata.dll  8093-! |
+|'''Exit code: '''| 0 |
+|'''Time elapsed: '''| 0.791 seconds |
+

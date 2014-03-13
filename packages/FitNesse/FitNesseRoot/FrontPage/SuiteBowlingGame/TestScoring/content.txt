@@ -1,9 +1,9 @@
 !contents
 !*****> Test Initialization
 !define TEST_SYSTEM {slim}
-!define COMMAND_PATTERN {%m -r fitSharp.Slim.Service.Runner,C:\development\bddtdd\packages\FitNesse\BowlingGame\fitsharp.dll %p}
-!define TEST_RUNNER {C:\development\bddtdd\packages\FitNesse\BowlingGame\Runner.exe}
-!path C:\development\bddtdd\packages\FitNesse\BowlingGame\BowlingKata.dll
+!define COMMAND_PATTERN {%m -r fitSharp.Slim.Service.Runner,D:\Development\bddtddfitnesse\packages\FitNesse\BowlingGame\fitsharp.dll %p}
+!define TEST_RUNNER {D:\Development\bddtddfitnesse\packages\FitNesse\BowlingGame\Runner.exe}
+!path D:\Development\bddtddfitnesse\packages\FitNesse\BowlingGame\BowlingKata.dll
 
 !|import             |
 |BowlingKata.Fixtures|
